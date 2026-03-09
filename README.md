@@ -1,5 +1,4 @@
-[![Build and test of Java Project]
-(https://github.com/raquel-garciab/pipeline-ci-githubactions-java/actions/workflows/main.yml/badge.svg)](https://github.com/raquel-garciab/pipeline-ci-githubactions-java/actions/workflows/main.yml)
+[![Build and test of Java Project](https://github.com/raquel-garciab/pipeline-ci-githubactions-java/actions/workflows/main.yml/badge.svg)](https://github.com/raquel-garciab/pipeline-ci-githubactions-java/actions/workflows/main.yml)
 
 # Pipeline de Integración Continua con GitHub Actions
 
